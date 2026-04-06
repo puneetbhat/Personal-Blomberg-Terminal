@@ -1,6 +1,6 @@
 ## About This Project
 Personal Bloomberg Terminal is a comprehensive financial analytics platform built to replicate professional Bloomberg Terminal functionality for personal portfolio management. It combines real-time market data, AI-powered insights, and multi-broker integration to provide institutional-grade portfolio tracking and analysis tools accessible through a web-based dashboard.
-The system tracks 59 total holdings across Indian equities, mutual funds, and US stocks, with automatic updates every 30 seconds, delivering live price feeds, sentiment-analyzed news, geopolitical event impact assessments, and performance analytics—all built from scratch using Python Flask backend and vanilla JavaScript frontend.
+The system tracks 59 total holdings across Indian equities, mutual funds, and US stocks, with automatic updates every 30 seconds, delivering live price feeds, sentiment-analyzed news, geopolitical event impact assessments, and performance analytics all built from scratch using Python Flask backend and vanilla JavaScript frontend.
  
 ---
 
